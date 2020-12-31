@@ -1,0 +1,12 @@
+.gi-2x {
+    font-size: 3em;
+}
+
+.count {
+    margin-left: 1.5rem;
+    font-size: 3.5em;
+}
+
+.cursor:hover {
+    cursor: pointer;
+}

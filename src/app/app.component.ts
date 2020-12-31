@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   isFavoriteFilled: boolean = true;
+
+  tweet: object = {
+    body: 'This is where our body content comes...'  ,
+    isLikes: false,
+    likesCount: 0
+  }
 }
